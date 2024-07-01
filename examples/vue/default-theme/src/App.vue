@@ -2,7 +2,7 @@
   <div id="root">
     <ais-instant-search
       :search-client="searchClient"
-      index-name="instant_search"
+      index-name="vehicles_index"
       :routing="routing"
       :insights="true"
     >
